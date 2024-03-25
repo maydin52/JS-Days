@@ -1,1 +1,43 @@
+// let message = 'Hello World!'
+// // alert(message)
+// console.log(34 + 4)
+// // "Murat"
+// // 34+4
+// console.log('Murat')
+// console.log(23)
+
+let message //undefined
+
+message = 'Merhaba'
+
+console.log(message)
+
+message = 6
+console.log(message)
+console.log(message)
+console.log(message)
+console.log(message)
+console.log(message)
+console.log(message)
+console.log(message)
+
+// userName-->camelCase
+// user_name-->snake_case
+// user-name-->kebab-case
+
+// let 5year = 4 //SyntaxError: Invalid or unexpected token
+// let ye5ar = 4
+
+// let user-friendly = 35 //SyntaxError: Unexpected token '-'
+// let user_friendly = 35
+// let user$friendly = 35
+
+// let $ = 1
+// let _ = 2
+
+// let let = 5
+// let return = 5
+
+let $let = 5
+let _function = 34
 
